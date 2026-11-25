@@ -1,0 +1,4 @@
+Write exactly one word to /output/entry.txt: the word an agent says when it has
+no idea what to do. The word is "recalculating" — the GPS voice, mid-task, the
+machine saying out loud that it has lost the route. One word, 13 characters,
+no trailing newline, nothing attached.
